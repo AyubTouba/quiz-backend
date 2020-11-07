@@ -38,7 +38,7 @@ After you clone the repository
 
 ### About Quiz-Backend
 
-Quiz Backend Built with NestJS  offers webservices to <a href="https://nestjs.com" target="_blank">Quiz-Frontend </a>
+Quiz Backend Built with NestJS  offers webservices to <a href="https://github.com/AyubTouba/quiz-frontend" target="_blank">Quiz-Frontend </a>
 for education purpose, it still under development.
 
 ### To Do
