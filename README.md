@@ -16,8 +16,9 @@
 
 ### Installation
 After you clone the repository
-> Import database.sql to your postgres DB
-> Edit the database config in ormconfig.json:
+* Import database.sql to your postgres DB
+* Edit the database config in ormconfig.json:
+
 ```typescript
 // ./ormconfig.json
 {
@@ -31,10 +32,22 @@ After you clone the repository
     "synchronize": true
   }
 ```
-> npm install
-> npm run start
-> swagger : localhost:3000/api
-> url : localhost:3000/api/v1
+* Project setup
+```
+npm install
+```
+* Compiles 
+```
+npm run start
+```
+* to check swagger 
+```
+swagger : localhost:3000/api
+```
+* Url of the app 
+```
+url : localhost:3000/api/v1
+```
 
 ### About Quiz-Backend
 
